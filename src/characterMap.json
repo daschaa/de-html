@@ -1,0 +1,3334 @@
+[
+  {
+    "Number": 9,
+    "Symbol": "Tab",
+    "Entity Name": "&Tab;",
+    "Code": "&#9;",
+    "Description": "Tab"
+  },
+  {
+    "Number": 10,
+    "Symbol": "New Line",
+    "Entity Name": "&NewLine;",
+    "Code": "&#10;",
+    "Description": "New Line"
+  },
+  {
+    "Number": 32,
+    "Symbol": "Space",
+    "Entity Name": "&nbsp;",
+    "Code": "&#32;",
+    "Description": "Space"
+  },
+  {
+    "Number": 33,
+    "Symbol": "!",
+    "Entity Name": "",
+    "Code": "&#33;",
+    "Description": "Exclamation mark"
+  },
+  {
+    "Number": 34,
+    "Symbol": "“",
+    "Entity Name": "&quot;",
+    "Code": "&#34;",
+    "Description": "Quotation mark"
+  },
+  {
+    "Number": 35,
+    "Symbol": "#",
+    "Entity Name": "",
+    "Code": "&#35;",
+    "Description": "Number sign"
+  },
+  {
+    "Number": 36,
+    "Symbol": "$",
+    "Entity Name": "",
+    "Code": "&#36;",
+    "Description": "Dollar sign"
+  },
+  {
+    "Number": 37,
+    "Symbol": "%",
+    "Entity Name": "",
+    "Code": "&#37;",
+    "Description": "Percent sign"
+  },
+  {
+    "Number": 38,
+    "Symbol": "&",
+    "Entity Name": "&amp;",
+    "Code": "&#38;",
+    "Description": "Ampersand"
+  },
+  {
+    "Number": 39,
+    "Symbol": "‘",
+    "Entity Name": "",
+    "Code": "&#39;",
+    "Description": "Apostrophe"
+  },
+  {
+    "Number": 40,
+    "Symbol": "(",
+    "Entity Name": "",
+    "Code": "&#40;",
+    "Description": "Opening/Left Parenthesis"
+  },
+  {
+    "Number": 41,
+    "Symbol": ")",
+    "Entity Name": "",
+    "Code": "&#41;",
+    "Description": "Closing/Right Parenthesis"
+  },
+  {
+    "Number": 42,
+    "Symbol": "*",
+    "Entity Name": "",
+    "Code": "&#42;",
+    "Description": "Asterisk"
+  },
+  {
+    "Number": 43,
+    "Symbol": "+",
+    "Entity Name": "",
+    "Code": "&#43;",
+    "Description": "Plus sign"
+  },
+  {
+    "Number": 44,
+    "Symbol": ",",
+    "Entity Name": "",
+    "Code": "&#44;",
+    "Description": "Comma"
+  },
+  {
+    "Number": 45,
+    "Symbol": "–",
+    "Entity Name": "",
+    "Code": "&#45;",
+    "Description": "Hyphen"
+  },
+  {
+    "Number": 46,
+    "Symbol": ".",
+    "Entity Name": "",
+    "Code": "&#46;",
+    "Description": "Period"
+  },
+  {
+    "Number": 47,
+    "Symbol": "/",
+    "Entity Name": "",
+    "Code": "&#47;",
+    "Description": "Slash"
+  },
+  {
+    "Number": 48,
+    "Symbol": 0,
+    "Entity Name": "",
+    "Code": "&#48;",
+    "Description": "Digit 0"
+  },
+  {
+    "Number": 49,
+    "Symbol": 1,
+    "Entity Name": "",
+    "Code": "&#49;",
+    "Description": "Digit 1"
+  },
+  {
+    "Number": 50,
+    "Symbol": 2,
+    "Entity Name": "",
+    "Code": "&#50;",
+    "Description": "Digit 2"
+  },
+  {
+    "Number": 51,
+    "Symbol": 3,
+    "Entity Name": "",
+    "Code": "&#51;",
+    "Description": "Digit 3"
+  },
+  {
+    "Number": 52,
+    "Symbol": 4,
+    "Entity Name": "",
+    "Code": "&#52;",
+    "Description": "Digit 4"
+  },
+  {
+    "Number": 53,
+    "Symbol": 5,
+    "Entity Name": "",
+    "Code": "&#53;",
+    "Description": "Digit 5"
+  },
+  {
+    "Number": 54,
+    "Symbol": 6,
+    "Entity Name": "",
+    "Code": "&#54;",
+    "Description": "Digit 6"
+  },
+  {
+    "Number": 55,
+    "Symbol": 7,
+    "Entity Name": "",
+    "Code": "&#55;",
+    "Description": "Digit 7"
+  },
+  {
+    "Number": 56,
+    "Symbol": 8,
+    "Entity Name": "",
+    "Code": "&#56;",
+    "Description": "Digit 8"
+  },
+  {
+    "Number": 57,
+    "Symbol": 9,
+    "Entity Name": "",
+    "Code": "&#57;",
+    "Description": "Digit 9"
+  },
+  {
+    "Number": 58,
+    "Symbol": ":",
+    "Entity Name": "",
+    "Code": "&#58;",
+    "Description": "Colon"
+  },
+  {
+    "Number": 59,
+    "Symbol": ";",
+    "Entity Name": "",
+    "Code": "&#59;",
+    "Description": "Semicolon"
+  },
+  {
+    "Number": 60,
+    "Symbol": "<",
+    "Entity Name": "&lt;",
+    "Code": "&#60;",
+    "Description": "Less-than"
+  },
+  {
+    "Number": 61,
+    "Symbol": "=",
+    "Entity Name": "",
+    "Code": "&#61;",
+    "Description": "Equals sign"
+  },
+  {
+    "Number": 62,
+    "Symbol": ">",
+    "Entity Name": "&gt;",
+    "Code": "&#62;",
+    "Description": "Greater than"
+  },
+  {
+    "Number": 63,
+    "Symbol": "?",
+    "Entity Name": "",
+    "Code": "&#63;",
+    "Description": "Question mark"
+  },
+  {
+    "Number": 64,
+    "Symbol": "@",
+    "Entity Name": "",
+    "Code": "&#64;",
+    "Description": "At sign"
+  },
+  {
+    "Number": 65,
+    "Symbol": "A",
+    "Entity Name": "",
+    "Code": "&#65;",
+    "Description": "Uppercase A"
+  },
+  {
+    "Number": 66,
+    "Symbol": "B",
+    "Entity Name": "",
+    "Code": "&#66;",
+    "Description": "Uppercase B"
+  },
+  {
+    "Number": 67,
+    "Symbol": "C",
+    "Entity Name": "",
+    "Code": "&#67;",
+    "Description": "Uppercase C"
+  },
+  {
+    "Number": 68,
+    "Symbol": "D",
+    "Entity Name": "",
+    "Code": "&#68;",
+    "Description": "Uppercase D"
+  },
+  {
+    "Number": 69,
+    "Symbol": "E",
+    "Entity Name": "",
+    "Code": "&#69;",
+    "Description": "Uppercase E"
+  },
+  {
+    "Number": 70,
+    "Symbol": "F",
+    "Entity Name": "",
+    "Code": "&#70;",
+    "Description": "Uppercase F"
+  },
+  {
+    "Number": 71,
+    "Symbol": "G",
+    "Entity Name": "",
+    "Code": "&#71;",
+    "Description": "Uppercase G"
+  },
+  {
+    "Number": 72,
+    "Symbol": "H",
+    "Entity Name": "",
+    "Code": "&#72;",
+    "Description": "Uppercase H"
+  },
+  {
+    "Number": 73,
+    "Symbol": "I",
+    "Entity Name": "",
+    "Code": "&#73;",
+    "Description": "Uppercase I"
+  },
+  {
+    "Number": 74,
+    "Symbol": "J",
+    "Entity Name": "",
+    "Code": "&#74;",
+    "Description": "Uppercase J"
+  },
+  {
+    "Number": 75,
+    "Symbol": "K",
+    "Entity Name": "",
+    "Code": "&#75;",
+    "Description": "Uppercase K"
+  },
+  {
+    "Number": 76,
+    "Symbol": "L",
+    "Entity Name": "",
+    "Code": "&#76;",
+    "Description": "Uppercase L"
+  },
+  {
+    "Number": 77,
+    "Symbol": "M",
+    "Entity Name": "",
+    "Code": "&#77;",
+    "Description": "Uppercase M"
+  },
+  {
+    "Number": 78,
+    "Symbol": "N",
+    "Entity Name": "",
+    "Code": "&#78;",
+    "Description": "Uppercase N"
+  },
+  {
+    "Number": 79,
+    "Symbol": "O",
+    "Entity Name": "",
+    "Code": "&#79;",
+    "Description": "Uppercase O"
+  },
+  {
+    "Number": 80,
+    "Symbol": "P",
+    "Entity Name": "",
+    "Code": "&#80;",
+    "Description": "Uppercase P"
+  },
+  {
+    "Number": 81,
+    "Symbol": "Q",
+    "Entity Name": "",
+    "Code": "&#81;",
+    "Description": "Uppercase Q"
+  },
+  {
+    "Number": 82,
+    "Symbol": "R",
+    "Entity Name": "",
+    "Code": "&#82;",
+    "Description": "Uppercase R"
+  },
+  {
+    "Number": 83,
+    "Symbol": "S",
+    "Entity Name": "",
+    "Code": "&#83;",
+    "Description": "Uppercase S"
+  },
+  {
+    "Number": 84,
+    "Symbol": "T",
+    "Entity Name": "",
+    "Code": "&#84;",
+    "Description": "Uppercase T"
+  },
+  {
+    "Number": 85,
+    "Symbol": "U",
+    "Entity Name": "",
+    "Code": "&#85;",
+    "Description": "Uppercase U"
+  },
+  {
+    "Number": 86,
+    "Symbol": "V",
+    "Entity Name": "",
+    "Code": "&#86;",
+    "Description": "Uppercase V"
+  },
+  {
+    "Number": 87,
+    "Symbol": "W",
+    "Entity Name": "",
+    "Code": "&#87;",
+    "Description": "Uppercase W"
+  },
+  {
+    "Number": 88,
+    "Symbol": "X",
+    "Entity Name": "",
+    "Code": "&#88;",
+    "Description": "Uppercase X"
+  },
+  {
+    "Number": 89,
+    "Symbol": "Y",
+    "Entity Name": "",
+    "Code": "&#89;",
+    "Description": "Uppercase Y"
+  },
+  {
+    "Number": 90,
+    "Symbol": "Z",
+    "Entity Name": "",
+    "Code": "&#90;",
+    "Description": "Uppercase Z"
+  },
+  {
+    "Number": 91,
+    "Symbol": "[",
+    "Entity Name": "",
+    "Code": "&#91;",
+    "Description": "Opening/Left square bracket"
+  },
+  {
+    "Number": 92,
+    "Symbol": "\\",
+    "Entity Name": "",
+    "Code": "&#92;",
+    "Description": "Backslash"
+  },
+  {
+    "Number": 93,
+    "Symbol": "]",
+    "Entity Name": "",
+    "Code": "&#93;",
+    "Description": "Closing/Right square bracket"
+  },
+  {
+    "Number": 94,
+    "Symbol": "^",
+    "Entity Name": "",
+    "Code": "&#94;",
+    "Description": "Caret"
+  },
+  {
+    "Number": 95,
+    "Symbol": "_",
+    "Entity Name": "",
+    "Code": "&#95;",
+    "Description": "Underscore"
+  },
+  {
+    "Number": 96,
+    "Symbol": "`",
+    "Entity Name": "",
+    "Code": "&#96;",
+    "Description": "Grave accent"
+  },
+  {
+    "Number": 97,
+    "Symbol": "a",
+    "Entity Name": "",
+    "Code": "&#97;",
+    "Description": "Lowercase a"
+  },
+  {
+    "Number": 98,
+    "Symbol": "b",
+    "Entity Name": "",
+    "Code": "&#98;",
+    "Description": "Lowercase b"
+  },
+  {
+    "Number": 99,
+    "Symbol": "c",
+    "Entity Name": "",
+    "Code": "&#99;",
+    "Description": "Lowercase c"
+  },
+  {
+    "Number": 100,
+    "Symbol": "d",
+    "Entity Name": "",
+    "Code": "&#100;",
+    "Description": "Lowercase d"
+  },
+  {
+    "Number": 101,
+    "Symbol": "e",
+    "Entity Name": "",
+    "Code": "&#101;",
+    "Description": "Lowercase e"
+  },
+  {
+    "Number": 102,
+    "Symbol": "f",
+    "Entity Name": "",
+    "Code": "&#102;",
+    "Description": "Lowercase f"
+  },
+  {
+    "Number": 103,
+    "Symbol": "g",
+    "Entity Name": "",
+    "Code": "&#103;",
+    "Description": "Lowercase g"
+  },
+  {
+    "Number": 104,
+    "Symbol": "h",
+    "Entity Name": "",
+    "Code": "&#104;",
+    "Description": "Lowercase h"
+  },
+  {
+    "Number": 105,
+    "Symbol": "i",
+    "Entity Name": "",
+    "Code": "&#105;",
+    "Description": "Lowercase i"
+  },
+  {
+    "Number": 106,
+    "Symbol": "j",
+    "Entity Name": "",
+    "Code": "&#106;",
+    "Description": "Lowercase j"
+  },
+  {
+    "Number": 107,
+    "Symbol": "k",
+    "Entity Name": "",
+    "Code": "&#107;",
+    "Description": "Lowercase k"
+  },
+  {
+    "Number": 108,
+    "Symbol": "l",
+    "Entity Name": "",
+    "Code": "&#108;",
+    "Description": "Lowercase l"
+  },
+  {
+    "Number": 109,
+    "Symbol": "m",
+    "Entity Name": "",
+    "Code": "&#109;",
+    "Description": "Lowercase m"
+  },
+  {
+    "Number": 110,
+    "Symbol": "n",
+    "Entity Name": "",
+    "Code": "&#110;",
+    "Description": "Lowercase n"
+  },
+  {
+    "Number": 111,
+    "Symbol": "o",
+    "Entity Name": "",
+    "Code": "&#111;",
+    "Description": "Lowercase o"
+  },
+  {
+    "Number": 112,
+    "Symbol": "p",
+    "Entity Name": "",
+    "Code": "&#112;",
+    "Description": "Lowercase p"
+  },
+  {
+    "Number": 113,
+    "Symbol": "q",
+    "Entity Name": "",
+    "Code": "&#113;",
+    "Description": "Lowercase q"
+  },
+  {
+    "Number": 114,
+    "Symbol": "r",
+    "Entity Name": "",
+    "Code": "&#114;",
+    "Description": "Lowercase r"
+  },
+  {
+    "Number": 115,
+    "Symbol": "s",
+    "Entity Name": "",
+    "Code": "&#115;",
+    "Description": "Lowercase s"
+  },
+  {
+    "Number": 116,
+    "Symbol": "t",
+    "Entity Name": "",
+    "Code": "&#116;",
+    "Description": "Lowercase t"
+  },
+  {
+    "Number": 117,
+    "Symbol": "u",
+    "Entity Name": "",
+    "Code": "&#117;",
+    "Description": "Lowercase u"
+  },
+  {
+    "Number": 118,
+    "Symbol": "v",
+    "Entity Name": "",
+    "Code": "&#118;",
+    "Description": "Lowercase v"
+  },
+  {
+    "Number": 119,
+    "Symbol": "w",
+    "Entity Name": "",
+    "Code": "&#119;",
+    "Description": "Lowercase w"
+  },
+  {
+    "Number": 120,
+    "Symbol": "x",
+    "Entity Name": "",
+    "Code": "&#120;",
+    "Description": "Lowercase x"
+  },
+  {
+    "Number": 121,
+    "Symbol": "y",
+    "Entity Name": "",
+    "Code": "&#121;",
+    "Description": "Lowercase y"
+  },
+  {
+    "Number": 122,
+    "Symbol": "z",
+    "Entity Name": "",
+    "Code": "&#122;",
+    "Description": "Lowercase z"
+  },
+  {
+    "Number": 123,
+    "Symbol": "{",
+    "Entity Name": "",
+    "Code": "&#123;",
+    "Description": "Opening/Left curly brace"
+  },
+  {
+    "Number": 124,
+    "Symbol": "|",
+    "Entity Name": "",
+    "Code": "&#124;",
+    "Description": "Vertical bar"
+  },
+  {
+    "Number": 125,
+    "Symbol": "}",
+    "Entity Name": "",
+    "Code": "&#125;",
+    "Description": "Closing/Right curly brace"
+  },
+  {
+    "Number": 126,
+    "Symbol": "~",
+    "Entity Name": "",
+    "Code": "&#126;",
+    "Description": "Tilde"
+  },
+  {
+    "Number": 128,
+    "Symbol": "€",
+    "Entity Name": "",
+    "Code": "&#128;",
+    "Description": "Euro sign"
+  },
+  {
+    "Number": 130,
+    "Symbol": "‚",
+    "Entity Name": "",
+    "Code": "&#130;",
+    "Description": "Punctuation mark"
+  },
+  {
+    "Number": 131,
+    "Symbol": "ƒ",
+    "Entity Name": "",
+    "Code": "&#131;",
+    "Description": "Florin sign"
+  },
+  {
+    "Number": 132,
+    "Symbol": "„",
+    "Entity Name": "",
+    "Code": "&#132;",
+    "Description": "Quotation mark"
+  },
+  {
+    "Number": 133,
+    "Symbol": "…",
+    "Entity Name": "",
+    "Code": "&#133;",
+    "Description": "Horizontal ellipsis"
+  },
+  {
+    "Number": 134,
+    "Symbol": "†",
+    "Entity Name": "",
+    "Code": "&#134;",
+    "Description": "Dagger"
+  },
+  {
+    "Number": 135,
+    "Symbol": "‡",
+    "Entity Name": "",
+    "Code": "&#135;",
+    "Description": "Double dagger"
+  },
+  {
+    "Number": 136,
+    "Symbol": "ˆ",
+    "Entity Name": "",
+    "Code": "&#136;",
+    "Description": "Circumflex"
+  },
+  {
+    "Number": 137,
+    "Symbol": "‰",
+    "Entity Name": "",
+    "Code": "&#137;",
+    "Description": "Per-mille"
+  },
+  {
+    "Number": 138,
+    "Symbol": "Š",
+    "Entity Name": "",
+    "Code": "&#138;",
+    "Description": "Latin capital letter s with caron"
+  },
+  {
+    "Number": 139,
+    "Symbol": "‹",
+    "Entity Name": "",
+    "Code": "&#139;",
+    "Description": "Single left angle quotation"
+  },
+  {
+    "Number": 140,
+    "Symbol": "Œ",
+    "Entity Name": "",
+    "Code": "&#140;",
+    "Description": "Uppercase ligature OE"
+  },
+  {
+    "Number": 142,
+    "Symbol": "Ž",
+    "Entity Name": "",
+    "Code": "&#142;",
+    "Description": "Latin capital letter z with caron"
+  },
+  {
+    "Number": 145,
+    "Symbol": "‘",
+    "Entity Name": "",
+    "Code": "&#145;",
+    "Description": "Opening single quotation mark"
+  },
+  {
+    "Number": 146,
+    "Symbol": "’",
+    "Entity Name": "",
+    "Code": "&#146;",
+    "Description": "Closing single quotation mark"
+  },
+  {
+    "Number": 147,
+    "Symbol": "“",
+    "Entity Name": "",
+    "Code": "&#147;",
+    "Description": "Opening double quotation mark"
+  },
+  {
+    "Number": 148,
+    "Symbol": "”",
+    "Entity Name": "",
+    "Code": "&#148;",
+    "Description": "Closing double quotation mark"
+  },
+  {
+    "Number": 149,
+    "Symbol": "•",
+    "Entity Name": "",
+    "Code": "&#149;",
+    "Description": "Bullet"
+  },
+  {
+    "Number": 150,
+    "Symbol": "–",
+    "Entity Name": "",
+    "Code": "&#150;",
+    "Description": "En dash"
+  },
+  {
+    "Number": 151,
+    "Symbol": "—",
+    "Entity Name": "",
+    "Code": "&#151;",
+    "Description": "Em dash"
+  },
+  {
+    "Number": 152,
+    "Symbol": "˜",
+    "Entity Name": "",
+    "Code": "&#152;",
+    "Description": "Tilde"
+  },
+  {
+    "Number": 153,
+    "Symbol": "™",
+    "Entity Name": "",
+    "Code": "&#153;",
+    "Description": "Trademark"
+  },
+  {
+    "Number": 154,
+    "Symbol": "š",
+    "Entity Name": "",
+    "Code": "&#154;",
+    "Description": "Latin small letter s with caron"
+  },
+  {
+    "Number": 155,
+    "Symbol": "›",
+    "Entity Name": "",
+    "Code": "&#155;",
+    "Description": "Single right angle quotation"
+  },
+  {
+    "Number": 156,
+    "Symbol": "œ",
+    "Entity Name": "",
+    "Code": "&#156;",
+    "Description": "Lowercase ligature OE"
+  },
+  {
+    "Number": 158,
+    "Symbol": "ž",
+    "Entity Name": "",
+    "Code": "&#158;",
+    "Description": "Latin small letter z with caron"
+  },
+  {
+    "Number": 159,
+    "Symbol": "Ÿ",
+    "Entity Name": "",
+    "Code": "&#159;",
+    "Description": "Latin capital letter y with diaeresis"
+  },
+  {
+    "Number": 160,
+    "Symbol": "Non-breaking space",
+    "Entity Name": "&nbsp;",
+    "Code": "&#160;",
+    "Description": "Non-breaking space"
+  },
+  {
+    "Number": 161,
+    "Symbol": "¡",
+    "Entity Name": "&iexcl;",
+    "Code": "&#161;",
+    "Description": "Inverted exclamation mark"
+  },
+  {
+    "Number": 162,
+    "Symbol": "¢",
+    "Entity Name": "&cent;",
+    "Code": "&#162;",
+    "Description": "Cent"
+  },
+  {
+    "Number": 163,
+    "Symbol": "£",
+    "Entity Name": "&pound;",
+    "Code": "&#163;",
+    "Description": "Pound"
+  },
+  {
+    "Number": 164,
+    "Symbol": "¤",
+    "Entity Name": "&curren;",
+    "Code": "&#164;",
+    "Description": "Currency"
+  },
+  {
+    "Number": 165,
+    "Symbol": "¥",
+    "Entity Name": "&yen;",
+    "Code": "&#165;",
+    "Description": "Yen"
+  },
+  {
+    "Number": 166,
+    "Symbol": "¦",
+    "Entity Name": "&brvbar;",
+    "Code": "&#166;",
+    "Description": "Broken vertical bar"
+  },
+  {
+    "Number": 167,
+    "Symbol": "§",
+    "Entity Name": "&sect;",
+    "Code": "&#167;",
+    "Description": "Section"
+  },
+  {
+    "Number": 168,
+    "Symbol": "¨",
+    "Entity Name": "&uml;",
+    "Code": "&#168;",
+    "Description": "Spacing diaeresis"
+  },
+  {
+    "Number": 169,
+    "Symbol": "©",
+    "Entity Name": "&copy;",
+    "Code": "&#169;",
+    "Description": "Copyright"
+  },
+  {
+    "Number": 170,
+    "Symbol": "ª",
+    "Entity Name": "&ordf;",
+    "Code": "&#170;",
+    "Description": "Feminine ordinal indicator"
+  },
+  {
+    "Number": 171,
+    "Symbol": "«",
+    "Entity Name": "&laquo;",
+    "Code": "&#171;",
+    "Description": "Opening/Left angle quotation mark"
+  },
+  {
+    "Number": 172,
+    "Symbol": "¬",
+    "Entity Name": "&not;",
+    "Code": "&#172;",
+    "Description": "Negation"
+  },
+  {
+    "Number": 173,
+    "Symbol": "­Soft hyphen",
+    "Entity Name": "&shy;",
+    "Code": "&#173;",
+    "Description": "Soft hyphen"
+  },
+  {
+    "Number": 174,
+    "Symbol": "®",
+    "Entity Name": "&reg;",
+    "Code": "&#174;",
+    "Description": "Registered trademark"
+  },
+  {
+    "Number": 175,
+    "Symbol": "¯",
+    "Entity Name": "&macr;",
+    "Code": "&#175;",
+    "Description": "Spacing macron"
+  },
+  {
+    "Number": 176,
+    "Symbol": "°",
+    "Entity Name": "&deg;",
+    "Code": "&#176;",
+    "Description": "Degree"
+  },
+  {
+    "Number": 177,
+    "Symbol": "±",
+    "Entity Name": "&plusmn;",
+    "Code": "&#177;",
+    "Description": "Plus or minus"
+  },
+  {
+    "Number": 178,
+    "Symbol": "²",
+    "Entity Name": "&sup2;",
+    "Code": "&#178;",
+    "Description": "Superscript 2"
+  },
+  {
+    "Number": 179,
+    "Symbol": "³",
+    "Entity Name": "&sup3;",
+    "Code": "&#179;",
+    "Description": "Superscript 3"
+  },
+  {
+    "Number": 180,
+    "Symbol": "´",
+    "Entity Name": "&acute;",
+    "Code": "&#180;",
+    "Description": "Spacing acute"
+  },
+  {
+    "Number": 181,
+    "Symbol": "µ",
+    "Entity Name": "&micro;",
+    "Code": "&#181;",
+    "Description": "Micro"
+  },
+  {
+    "Number": 182,
+    "Symbol": "¶",
+    "Entity Name": "&para;",
+    "Code": "&#182;",
+    "Description": "Paragraph"
+  },
+  {
+    "Number": 182,
+    "Symbol": "·",
+    "Entity Name": "&dot;",
+    "Code": "&#183;",
+    "Description": "Dot"
+  },
+  {
+    "Number": 184,
+    "Symbol": "¸",
+    "Entity Name": "&cedil;",
+    "Code": "&#184;",
+    "Description": "Spacing cedilla"
+  },
+  {
+    "Number": 185,
+    "Symbol": "¹",
+    "Entity Name": "&sup1;",
+    "Code": "&#185;",
+    "Description": "Superscript 1"
+  },
+  {
+    "Number": 186,
+    "Symbol": "º",
+    "Entity Name": "&ordm;",
+    "Code": "&#186;",
+    "Description": "Masculine ordinal indicator"
+  },
+  {
+    "Number": 187,
+    "Symbol": "»",
+    "Entity Name": "&raquo;",
+    "Code": "&#187;",
+    "Description": "Closing/Right angle quotation mark"
+  },
+  {
+    "Number": 188,
+    "Symbol": "¼",
+    "Entity Name": "&frac14;",
+    "Code": "&#188;",
+    "Description": "Fraction 1/4"
+  },
+  {
+    "Number": 189,
+    "Symbol": "½",
+    "Entity Name": "&frac12;",
+    "Code": "&#189;",
+    "Description": "Fraction 1/2"
+  },
+  {
+    "Number": 190,
+    "Symbol": "¾",
+    "Entity Name": "&frac34;",
+    "Code": "&#190;",
+    "Description": "Fraction 3/4"
+  },
+  {
+    "Number": 191,
+    "Symbol": "¿",
+    "Entity Name": "&iquest;",
+    "Code": "&#191;",
+    "Description": "Inverted question mark"
+  },
+  {
+    "Number": 192,
+    "Symbol": "À",
+    "Entity Name": "&Agrave;",
+    "Code": "&#192;",
+    "Description": "Capital a with grave accent"
+  },
+  {
+    "Number": 193,
+    "Symbol": "Á",
+    "Entity Name": "&Aacute;",
+    "Code": "&#193;",
+    "Description": "Capital a with acute accent"
+  },
+  {
+    "Number": 194,
+    "Symbol": "Â",
+    "Entity Name": "&Acirc;",
+    "Code": "&#194;",
+    "Description": "Capital a with circumflex accent"
+  },
+  {
+    "Number": 195,
+    "Symbol": "Ã",
+    "Entity Name": "&Atilde;",
+    "Code": "&#195;",
+    "Description": "Capital a with tilde"
+  },
+  {
+    "Number": 196,
+    "Symbol": "Ä",
+    "Entity Name": "&Auml;",
+    "Code": "&#196;",
+    "Description": "Capital a with umlaut"
+  },
+  {
+    "Number": 197,
+    "Symbol": "Å",
+    "Entity Name": "&Aring;",
+    "Code": "&#197;",
+    "Description": "Capital a with ring"
+  },
+  {
+    "Number": 198,
+    "Symbol": "Æ",
+    "Entity Name": "&AElig;",
+    "Code": "&#198;",
+    "Description": "Capital ae"
+  },
+  {
+    "Number": 199,
+    "Symbol": "Ç",
+    "Entity Name": "&Ccedil;",
+    "Code": "&#199;",
+    "Description": "Capital c with cedilla"
+  },
+  {
+    "Number": 200,
+    "Symbol": "È",
+    "Entity Name": "&Egrave;",
+    "Code": "&#200;",
+    "Description": "Capital e with grave accent"
+  },
+  {
+    "Number": 201,
+    "Symbol": "É",
+    "Entity Name": "&Eacute;",
+    "Code": "&#201;",
+    "Description": "Capital e with acute accent"
+  },
+  {
+    "Number": 202,
+    "Symbol": "Ê",
+    "Entity Name": "&Ecirc;",
+    "Code": "&#202;",
+    "Description": "Capital e with circumflex accent"
+  },
+  {
+    "Number": 203,
+    "Symbol": "Ë",
+    "Entity Name": "&Euml;",
+    "Code": "&#203;",
+    "Description": "Capital e with umlaut"
+  },
+  {
+    "Number": 204,
+    "Symbol": "Ì",
+    "Entity Name": "&Igrave;",
+    "Code": "&#204;",
+    "Description": "Capital i with grave accent"
+  },
+  {
+    "Number": 205,
+    "Symbol": "Í",
+    "Entity Name": "&Iacute;",
+    "Code": "&#205;",
+    "Description": "Capital i with accute accent"
+  },
+  {
+    "Number": 206,
+    "Symbol": "Î",
+    "Entity Name": "&Icirc;",
+    "Code": "&#206;",
+    "Description": "Capital i with circumflex accent"
+  },
+  {
+    "Number": 207,
+    "Symbol": "Ï",
+    "Entity Name": "&Iuml;",
+    "Code": "&#207;",
+    "Description": "Capital i with umlaut"
+  },
+  {
+    "Number": 208,
+    "Symbol": "Ð",
+    "Entity Name": "&ETH;",
+    "Code": "&#208;",
+    "Description": "Capital eth (Icelandic)"
+  },
+  {
+    "Number": 209,
+    "Symbol": "Ñ",
+    "Entity Name": "&Ntilde;",
+    "Code": "&#209;",
+    "Description": "Capital n with tilde"
+  },
+  {
+    "Number": 210,
+    "Symbol": "Ò",
+    "Entity Name": "&Ograve;",
+    "Code": "&#210;",
+    "Description": "Capital o with grave accent"
+  },
+  {
+    "Number": 211,
+    "Symbol": "Ó",
+    "Entity Name": "&Oacute;",
+    "Code": "&#211;",
+    "Description": "Capital o with accute accent"
+  },
+  {
+    "Number": 212,
+    "Symbol": "Ô",
+    "Entity Name": "&Ocirc;",
+    "Code": "&#212;",
+    "Description": "Capital o with circumflex accent"
+  },
+  {
+    "Number": 213,
+    "Symbol": "Õ",
+    "Entity Name": "&Otilde;",
+    "Code": "&#213;",
+    "Description": "Capital o with tilde"
+  },
+  {
+    "Number": 214,
+    "Symbol": "Ö",
+    "Entity Name": "&Ouml;",
+    "Code": "&#214;",
+    "Description": "Capital o with umlaut"
+  },
+  {
+    "Number": 215,
+    "Symbol": "×",
+    "Entity Name": "&times;",
+    "Code": "&#215;",
+    "Description": "Multiplication"
+  },
+  {
+    "Number": 216,
+    "Symbol": "Ø",
+    "Entity Name": "&Oslash;",
+    "Code": "&#216;",
+    "Description": "Capital o with slash"
+  },
+  {
+    "Number": 217,
+    "Symbol": "Ù",
+    "Entity Name": "&Ugrave;",
+    "Code": "&#217;",
+    "Description": "Capital u with grave accent"
+  },
+  {
+    "Number": 218,
+    "Symbol": "Ú",
+    "Entity Name": "&Uacute;",
+    "Code": "&#218;",
+    "Description": "Capital u with acute accent"
+  },
+  {
+    "Number": 219,
+    "Symbol": "Û",
+    "Entity Name": "&Ucirc;",
+    "Code": "&#219;",
+    "Description": "Capital u with circumflex accent"
+  },
+  {
+    "Number": 220,
+    "Symbol": "Ü",
+    "Entity Name": "&Uuml;",
+    "Code": "&#220;",
+    "Description": "Capital u with umlaut"
+  },
+  {
+    "Number": 221,
+    "Symbol": "Ý",
+    "Entity Name": "&Yacute;",
+    "Code": "&#221;",
+    "Description": "Capital y with acute accent"
+  },
+  {
+    "Number": 222,
+    "Symbol": "Þ",
+    "Entity Name": "&THORN;",
+    "Code": "&#222;",
+    "Description": "Capital thorn (Icelandic)"
+  },
+  {
+    "Number": 223,
+    "Symbol": "ß",
+    "Entity Name": "&szlig;",
+    "Code": "&#223;",
+    "Description": "Lowercase sharp s (German)"
+  },
+  {
+    "Number": 224,
+    "Symbol": "à",
+    "Entity Name": "&agrave;",
+    "Code": "&#224;",
+    "Description": "Lowercase a with grave accent"
+  },
+  {
+    "Number": 225,
+    "Symbol": "á",
+    "Entity Name": "&aacute;",
+    "Code": "&#225;",
+    "Description": "Lowercase a with acute accent"
+  },
+  {
+    "Number": 226,
+    "Symbol": "â",
+    "Entity Name": "&acirc;",
+    "Code": "&#226;",
+    "Description": "Lowercase a with circumflex accent"
+  },
+  {
+    "Number": 227,
+    "Symbol": "ã",
+    "Entity Name": "&atilde;",
+    "Code": "&#227;",
+    "Description": "Lowercase a with tilde"
+  },
+  {
+    "Number": 228,
+    "Symbol": "ä",
+    "Entity Name": "&auml;",
+    "Code": "&#228;",
+    "Description": "Lowercase a with umlaut"
+  },
+  {
+    "Number": 229,
+    "Symbol": "å",
+    "Entity Name": "&aring;",
+    "Code": "&#229;",
+    "Description": "Lowercase a with ring"
+  },
+  {
+    "Number": 230,
+    "Symbol": "æ",
+    "Entity Name": "&aelig;",
+    "Code": "&#230;",
+    "Description": "Lowercase ae"
+  },
+  {
+    "Number": 231,
+    "Symbol": "ç",
+    "Entity Name": "&ccedil;",
+    "Code": "&#231;",
+    "Description": "Lowercase c with cedilla"
+  },
+  {
+    "Number": 232,
+    "Symbol": "è",
+    "Entity Name": "&egrave;",
+    "Code": "&#232;",
+    "Description": "Lowercase e with grave accent"
+  },
+  {
+    "Number": 233,
+    "Symbol": "é",
+    "Entity Name": "&eacute;",
+    "Code": "&#233;",
+    "Description": "Lowercase e with acute accent"
+  },
+  {
+    "Number": 234,
+    "Symbol": "ê",
+    "Entity Name": "&ecirc;",
+    "Code": "&#234;",
+    "Description": "Lowercase e with circumflex accent"
+  },
+  {
+    "Number": 235,
+    "Symbol": "ë",
+    "Entity Name": "&euml;",
+    "Code": "&#235;",
+    "Description": "Lowercase e with umlaut"
+  },
+  {
+    "Number": 236,
+    "Symbol": "ì",
+    "Entity Name": "&igrave;",
+    "Code": "&#236;",
+    "Description": "Lowercase i with grave accent"
+  },
+  {
+    "Number": 237,
+    "Symbol": "í",
+    "Entity Name": "&iacute;",
+    "Code": "&#237;",
+    "Description": "Lowercase i with acute accent"
+  },
+  {
+    "Number": 238,
+    "Symbol": "î",
+    "Entity Name": "&icirc;",
+    "Code": "&#238;",
+    "Description": "Lowercase i with circumflex accent"
+  },
+  {
+    "Number": 239,
+    "Symbol": "ï",
+    "Entity Name": "&iuml;",
+    "Code": "&#239;",
+    "Description": "Lowercase i with umlaut"
+  },
+  {
+    "Number": 240,
+    "Symbol": "ð",
+    "Entity Name": "&eth;",
+    "Code": "&#240;",
+    "Description": "Lowercase eth (Icelandic)"
+  },
+  {
+    "Number": 241,
+    "Symbol": "ñ",
+    "Entity Name": "&ntilde;",
+    "Code": "&#241;",
+    "Description": "Lowercase n with tilde"
+  },
+  {
+    "Number": 242,
+    "Symbol": "ò",
+    "Entity Name": "&ograve;",
+    "Code": "&#242;",
+    "Description": "Lowercase o with grave accent"
+  },
+  {
+    "Number": 243,
+    "Symbol": "ó",
+    "Entity Name": "&oacute;",
+    "Code": "&#243;",
+    "Description": "Lowercase o with acute accent"
+  },
+  {
+    "Number": 244,
+    "Symbol": "ô",
+    "Entity Name": "&ocirc;",
+    "Code": "&#244;",
+    "Description": "Lowercase o with circumflex accent"
+  },
+  {
+    "Number": 245,
+    "Symbol": "õ",
+    "Entity Name": "&otilde;",
+    "Code": "&#245;",
+    "Description": "Lowercase o with tilde"
+  },
+  {
+    "Number": 246,
+    "Symbol": "ö",
+    "Entity Name": "&ouml;",
+    "Code": "&#246;",
+    "Description": "Lowercase o with umlaut"
+  },
+  {
+    "Number": 247,
+    "Symbol": "÷",
+    "Entity Name": "&divide;",
+    "Code": "&#247;",
+    "Description": "Divide"
+  },
+  {
+    "Number": 248,
+    "Symbol": "ø",
+    "Entity Name": "&oslash;",
+    "Code": "&#248;",
+    "Description": "Lowercase o with slash"
+  },
+  {
+    "Number": 249,
+    "Symbol": "ù",
+    "Entity Name": "&ugrave;",
+    "Code": "&#249;",
+    "Description": "Lowercase u with grave accent"
+  },
+  {
+    "Number": 250,
+    "Symbol": "ú",
+    "Entity Name": "&uacute;",
+    "Code": "&#250;",
+    "Description": "Lowercase u with acute accent"
+  },
+  {
+    "Number": 251,
+    "Symbol": "û",
+    "Entity Name": "&ucirc;",
+    "Code": "&#251;",
+    "Description": "Lowercase u with circumflex accent"
+  },
+  {
+    "Number": 252,
+    "Symbol": "ü",
+    "Entity Name": "&uuml;",
+    "Code": "&#252;",
+    "Description": "Lowercase u with umlaut"
+  },
+  {
+    "Number": 253,
+    "Symbol": "ý",
+    "Entity Name": "&yacute;",
+    "Code": "&#253;",
+    "Description": "Lowercase y with acute accent"
+  },
+  {
+    "Number": 254,
+    "Symbol": "þ",
+    "Entity Name": "&thorn;",
+    "Code": "&#254;",
+    "Description": "Lowercase thorn (Icelandic)"
+  },
+  {
+    "Number": 255,
+    "Symbol": "ÿ",
+    "Entity Name": "&yuml;",
+    "Code": "&#255;",
+    "Description": "Lowercase y with umlaut"
+  },
+  {
+    "Number": 256,
+    "Symbol": "Ā",
+    "Entity Name": "&Amacr;",
+    "Code": "&#256;",
+    "Description": "Latin capital letter a with macron"
+  },
+  {
+    "Number": 257,
+    "Symbol": "ā",
+    "Entity Name": "&amacr;",
+    "Code": "&#257;",
+    "Description": "Latin small letter a with macron"
+  },
+  {
+    "Number": 258,
+    "Symbol": "Ă",
+    "Entity Name": "&Abreve;",
+    "Code": "&#258;",
+    "Description": "Latin capital letter a with breve"
+  },
+  {
+    "Number": 259,
+    "Symbol": "ă",
+    "Entity Name": "&abreve;",
+    "Code": "&#259;",
+    "Description": "Latin small letter a with breve"
+  },
+  {
+    "Number": 260,
+    "Symbol": "Ą",
+    "Entity Name": "&Aogon;",
+    "Code": "&#260;",
+    "Description": "Latin capital letter a with ogonek"
+  },
+  {
+    "Number": 261,
+    "Symbol": "ą",
+    "Entity Name": "&aogon;",
+    "Code": "&#261;",
+    "Description": "Latin small letter a with ogonek"
+  },
+  {
+    "Number": 262,
+    "Symbol": "Ć",
+    "Entity Name": "&Cacute;",
+    "Code": "&#262;",
+    "Description": "Latin capital letter c with acute"
+  },
+  {
+    "Number": 263,
+    "Symbol": "ć",
+    "Entity Name": "&cacute;",
+    "Code": "&#263;",
+    "Description": "Latin small letter c with acute"
+  },
+  {
+    "Number": 264,
+    "Symbol": "Ĉ",
+    "Entity Name": "&Ccirc;",
+    "Code": "&#264;",
+    "Description": "Latin capital letter c with circumflex"
+  },
+  {
+    "Number": 265,
+    "Symbol": "ĉ",
+    "Entity Name": "&ccirc;",
+    "Code": "&#265;",
+    "Description": "Latin small letter c with circumflex"
+  },
+  {
+    "Number": 266,
+    "Symbol": "Ċ",
+    "Entity Name": "&Cdot;",
+    "Code": "&#266;",
+    "Description": "Latin capital letter c with dot above"
+  },
+  {
+    "Number": 267,
+    "Symbol": "ċ",
+    "Entity Name": "&cdot;",
+    "Code": "&#267;",
+    "Description": "Latin small letter c with dot above"
+  },
+  {
+    "Number": 268,
+    "Symbol": "Č",
+    "Entity Name": "&Ccaron;",
+    "Code": "&#268;",
+    "Description": "Latin capital letter c with caron"
+  },
+  {
+    "Number": 269,
+    "Symbol": "č",
+    "Entity Name": "&ccaron;",
+    "Code": "&#269;",
+    "Description": "Latin small letter c with caron"
+  },
+  {
+    "Number": 270,
+    "Symbol": "Ď",
+    "Entity Name": "&Dcaron;",
+    "Code": "&#270;",
+    "Description": "Latin capital letter d with caron"
+  },
+  {
+    "Number": 271,
+    "Symbol": "ď",
+    "Entity Name": "&dcaron;",
+    "Code": "&#271;",
+    "Description": "Latin small letter d with caron"
+  },
+  {
+    "Number": 272,
+    "Symbol": "Đ",
+    "Entity Name": "&Dstrok;",
+    "Code": "&#272;",
+    "Description": "Latin capital letter d with stroke"
+  },
+  {
+    "Number": 273,
+    "Symbol": "đ",
+    "Entity Name": "&dstrok;",
+    "Code": "&#273;",
+    "Description": "Latin small letter d with stroke"
+  },
+  {
+    "Number": 274,
+    "Symbol": "Ē",
+    "Entity Name": "&Emacr;",
+    "Code": "&#274;",
+    "Description": "Latin capital letter e with macron"
+  },
+  {
+    "Number": 275,
+    "Symbol": "ē",
+    "Entity Name": "&emacr;",
+    "Code": "&#275;",
+    "Description": "Latin small letter e with macron"
+  },
+  {
+    "Number": 276,
+    "Symbol": "Ĕ",
+    "Entity Name": "&Ebreve;",
+    "Code": "&#276;",
+    "Description": "Latin capital letter e with breve"
+  },
+  {
+    "Number": 277,
+    "Symbol": "ĕ",
+    "Entity Name": "&ebreve;",
+    "Code": "&#277;",
+    "Description": "Latin small letter e with breve"
+  },
+  {
+    "Number": 278,
+    "Symbol": "Ė",
+    "Entity Name": "&Edot;",
+    "Code": "&#278;",
+    "Description": "Latin capital letter e with dot above"
+  },
+  {
+    "Number": 279,
+    "Symbol": "ė",
+    "Entity Name": "&edot;",
+    "Code": "&#279;",
+    "Description": "Latin small letter e with dot above"
+  },
+  {
+    "Number": 280,
+    "Symbol": "Ę",
+    "Entity Name": "&Eogon;",
+    "Code": "&#280;",
+    "Description": "Latin capital letter e with ogonek"
+  },
+  {
+    "Number": 281,
+    "Symbol": "ę",
+    "Entity Name": "&eogon;",
+    "Code": "&#281;",
+    "Description": "Latin small letter e with ogonek"
+  },
+  {
+    "Number": 282,
+    "Symbol": "Ě",
+    "Entity Name": "&Ecaron;",
+    "Code": "&#282;",
+    "Description": "Latin capital letter e with caron"
+  },
+  {
+    "Number": 283,
+    "Symbol": "ě",
+    "Entity Name": "&ecaron;",
+    "Code": "&#283;",
+    "Description": "Latin small letter e with caron"
+  },
+  {
+    "Number": 284,
+    "Symbol": "Ĝ",
+    "Entity Name": "&Gcirc;",
+    "Code": "&#284;",
+    "Description": "Latin capital letter g with circumflex"
+  },
+  {
+    "Number": 285,
+    "Symbol": "ĝ",
+    "Entity Name": "&gcirc;",
+    "Code": "&#285;",
+    "Description": "Latin small letter g with circumflex"
+  },
+  {
+    "Number": 286,
+    "Symbol": "Ğ",
+    "Entity Name": "&Gbreve;",
+    "Code": "&#286;",
+    "Description": "Latin capital letter g with breve"
+  },
+  {
+    "Number": 287,
+    "Symbol": "ğ",
+    "Entity Name": "&gbreve;",
+    "Code": "&#287;",
+    "Description": "Latin small letter g with breve"
+  },
+  {
+    "Number": 288,
+    "Symbol": "Ġ",
+    "Entity Name": "&Gdot;",
+    "Code": "&#288;",
+    "Description": "Latin capital letter g with dot above"
+  },
+  {
+    "Number": 289,
+    "Symbol": "ġ",
+    "Entity Name": "&gdot;",
+    "Code": "&#289;",
+    "Description": "Latin small letter g with dot above"
+  },
+  {
+    "Number": 290,
+    "Symbol": "Ģ",
+    "Entity Name": "&Gcedil;",
+    "Code": "&#290;",
+    "Description": "Latin capital letter g with cedilla"
+  },
+  {
+    "Number": 291,
+    "Symbol": "ģ",
+    "Entity Name": "&gcedil;",
+    "Code": "&#291;",
+    "Description": "Latin small letter g with cedilla"
+  },
+  {
+    "Number": 292,
+    "Symbol": "Ĥ",
+    "Entity Name": "&Hcirc;",
+    "Code": "&#292;",
+    "Description": "Latin capital letter h with circumflex"
+  },
+  {
+    "Number": 293,
+    "Symbol": "ĥ",
+    "Entity Name": "&hcirc;",
+    "Code": "&#293;",
+    "Description": "Latin small letter h with circumflex"
+  },
+  {
+    "Number": 294,
+    "Symbol": "Ħ",
+    "Entity Name": "&Hstrok;",
+    "Code": "&#294;",
+    "Description": "Latin capital letter h with stroke"
+  },
+  {
+    "Number": 295,
+    "Symbol": "ħ",
+    "Entity Name": "&hstrok;",
+    "Code": "&#295;",
+    "Description": "Latin small letter h with stroke"
+  },
+  {
+    "Number": 296,
+    "Symbol": "Ĩ",
+    "Entity Name": "&Itilde;",
+    "Code": "&#296;",
+    "Description": "Latin capital letter I with tilde"
+  },
+  {
+    "Number": 297,
+    "Symbol": "ĩ",
+    "Entity Name": "&itilde;",
+    "Code": "&#297;",
+    "Description": "Latin small letter I with tilde"
+  },
+  {
+    "Number": 298,
+    "Symbol": "Ī",
+    "Entity Name": "&Imacr;",
+    "Code": "&#298;",
+    "Description": "Latin capital letter I with macron"
+  },
+  {
+    "Number": 299,
+    "Symbol": "ī",
+    "Entity Name": "&imacr;",
+    "Code": "&#299;",
+    "Description": "Latin small letter I with macron"
+  },
+  {
+    "Number": 300,
+    "Symbol": "Ĭ",
+    "Entity Name": "&Ibreve;",
+    "Code": "&#300;",
+    "Description": "Latin capital letter I with breve"
+  },
+  {
+    "Number": 301,
+    "Symbol": "ĭ",
+    "Entity Name": "&ibreve;",
+    "Code": "&#301;",
+    "Description": "Latin small letter I with breve"
+  },
+  {
+    "Number": 302,
+    "Symbol": "Į",
+    "Entity Name": "&Iogon;",
+    "Code": "&#302;",
+    "Description": "Latin capital letter I with ogonek"
+  },
+  {
+    "Number": 303,
+    "Symbol": "į",
+    "Entity Name": "&iogon;",
+    "Code": "&#303;",
+    "Description": "Latin small letter I with ogonek"
+  },
+  {
+    "Number": 304,
+    "Symbol": "İ",
+    "Entity Name": "&Idot;",
+    "Code": "&#304;",
+    "Description": "Latin capital letter I with dot above"
+  },
+  {
+    "Number": 305,
+    "Symbol": "ı",
+    "Entity Name": "&imath; &inodot;",
+    "Code": "&#305;",
+    "Description": "Latin small letter dotless I"
+  },
+  {
+    "Number": 306,
+    "Symbol": "Ĳ",
+    "Entity Name": "&IJlig;",
+    "Code": "&#306;",
+    "Description": "Latin capital ligature ij"
+  },
+  {
+    "Number": 307,
+    "Symbol": "ĳ",
+    "Entity Name": "&ijlig;",
+    "Code": "&#307;",
+    "Description": "Latin small ligature ij"
+  },
+  {
+    "Number": 308,
+    "Symbol": "Ĵ",
+    "Entity Name": "&Jcirc;",
+    "Code": "&#308;",
+    "Description": "Latin capital letter j with circumflex"
+  },
+  {
+    "Number": 309,
+    "Symbol": "ĵ",
+    "Entity Name": "&jcirc;",
+    "Code": "&#309;",
+    "Description": "Latin small letter j with circumflex"
+  },
+  {
+    "Number": 310,
+    "Symbol": "Ķ",
+    "Entity Name": "&Kcedil;",
+    "Code": "&#310;",
+    "Description": "Latin capital letter k with cedilla"
+  },
+  {
+    "Number": 311,
+    "Symbol": "ķ",
+    "Entity Name": "&kcedil;",
+    "Code": "&#311;",
+    "Description": "Latin small letter k with cedilla"
+  },
+  {
+    "Number": 312,
+    "Symbol": "ĸ",
+    "Entity Name": "&kgreen;",
+    "Code": "&#312;",
+    "Description": "Latin small letter kra"
+  },
+  {
+    "Number": 313,
+    "Symbol": "Ĺ",
+    "Entity Name": "&Lacute;",
+    "Code": "&#313;",
+    "Description": "Latin capital letter l with acute"
+  },
+  {
+    "Number": 314,
+    "Symbol": "ĺ",
+    "Entity Name": "&lacute;",
+    "Code": "&#314;",
+    "Description": "Latin small letter l with acute"
+  },
+  {
+    "Number": 315,
+    "Symbol": "Ļ",
+    "Entity Name": "&Lcedil;",
+    "Code": "&#315;",
+    "Description": "Latin capital letter l with cedilla"
+  },
+  {
+    "Number": 316,
+    "Symbol": "ļ",
+    "Entity Name": "&lcedil;",
+    "Code": "&#316;",
+    "Description": "Latin small letter l with cedilla"
+  },
+  {
+    "Number": 317,
+    "Symbol": "Ľ",
+    "Entity Name": "&Lcaron;",
+    "Code": "&#317;",
+    "Description": "Latin capital letter l with caron"
+  },
+  {
+    "Number": 318,
+    "Symbol": "ľ",
+    "Entity Name": "&lcaron;",
+    "Code": "&#318;",
+    "Description": "Latin small letter l with caron"
+  },
+  {
+    "Number": 319,
+    "Symbol": "Ŀ",
+    "Entity Name": "&Lmidot;",
+    "Code": "&#319;",
+    "Description": "Latin capital letter l with middle dot"
+  },
+  {
+    "Number": 320,
+    "Symbol": "ŀ",
+    "Entity Name": "&lmidot;",
+    "Code": "&#320;",
+    "Description": "Latin small letter l with middle dot"
+  },
+  {
+    "Number": 321,
+    "Symbol": "Ł",
+    "Entity Name": "&Lstrok;",
+    "Code": "&#321;",
+    "Description": "Latin capital letter l with stroke"
+  },
+  {
+    "Number": 322,
+    "Symbol": "ł",
+    "Entity Name": "&lstrok;",
+    "Code": "&#322;",
+    "Description": "Latin small letter l with stroke"
+  },
+  {
+    "Number": 323,
+    "Symbol": "Ń",
+    "Entity Name": "&Nacute;",
+    "Code": "&#323;",
+    "Description": "Latin capital letter n with acute"
+  },
+  {
+    "Number": 324,
+    "Symbol": "ń",
+    "Entity Name": "&nacute;",
+    "Code": "&#324;",
+    "Description": "Latin small letter n with acute"
+  },
+  {
+    "Number": 325,
+    "Symbol": "Ņ",
+    "Entity Name": "&Ncedil;",
+    "Code": "&#325;",
+    "Description": "Latin capital letter n with cedilla"
+  },
+  {
+    "Number": 326,
+    "Symbol": "ņ",
+    "Entity Name": "&ncedil;",
+    "Code": "&#326;",
+    "Description": "Latin small letter n with cedilla"
+  },
+  {
+    "Number": 327,
+    "Symbol": "Ň",
+    "Entity Name": "&Ncaron;",
+    "Code": "&#327;",
+    "Description": "Latin capital letter n with caron"
+  },
+  {
+    "Number": 328,
+    "Symbol": "ň",
+    "Entity Name": "&ncaron;",
+    "Code": "&#328;",
+    "Description": "Latin small letter n with caron"
+  },
+  {
+    "Number": 329,
+    "Symbol": "ŉ",
+    "Entity Name": "&napos;",
+    "Code": "&#329;",
+    "Description": "Latin small letter n preceded by apostrophe"
+  },
+  {
+    "Number": 330,
+    "Symbol": "Ŋ",
+    "Entity Name": "&ENG;",
+    "Code": "&#330;",
+    "Description": "Latin capital letter eng"
+  },
+  {
+    "Number": 331,
+    "Symbol": "ŋ",
+    "Entity Name": "&eng;",
+    "Code": "&#331;",
+    "Description": "Latin small letter eng"
+  },
+  {
+    "Number": 332,
+    "Symbol": "Ō",
+    "Entity Name": "&Omacr;",
+    "Code": "&#332;",
+    "Description": "Latin capital letter o with macron"
+  },
+  {
+    "Number": 333,
+    "Symbol": "ō",
+    "Entity Name": "&omacr;",
+    "Code": "&#333;",
+    "Description": "Latin small letter o with macron"
+  },
+  {
+    "Number": 334,
+    "Symbol": "Ŏ",
+    "Entity Name": "&Obreve;",
+    "Code": "&#334;",
+    "Description": "Latin capital letter o with breve"
+  },
+  {
+    "Number": 335,
+    "Symbol": "ŏ",
+    "Entity Name": "&obreve;",
+    "Code": "&#335;",
+    "Description": "Latin small letter o with breve"
+  },
+  {
+    "Number": 336,
+    "Symbol": "Ő",
+    "Entity Name": "&Odblac;",
+    "Code": "&#336;",
+    "Description": "Latin capital letter o with double acute"
+  },
+  {
+    "Number": 337,
+    "Symbol": "ő",
+    "Entity Name": "&odblac;",
+    "Code": "&#337;",
+    "Description": "Latin small letter o with double acute"
+  },
+  {
+    "Number": 338,
+    "Symbol": "Œ",
+    "Entity Name": "&OElig;",
+    "Code": "&#338;",
+    "Description": "Uppercase ligature OE"
+  },
+  {
+    "Number": 339,
+    "Symbol": "œ",
+    "Entity Name": "&oelig;",
+    "Code": "&#339;",
+    "Description": "Lowercase ligature OE"
+  },
+  {
+    "Number": 340,
+    "Symbol": "Ŕ",
+    "Entity Name": "&Racute;",
+    "Code": "&#340;",
+    "Description": "Latin capital letter r with acute"
+  },
+  {
+    "Number": 341,
+    "Symbol": "ŕ",
+    "Entity Name": "&racute;",
+    "Code": "&#341;",
+    "Description": "Latin small letter r with acute"
+  },
+  {
+    "Number": 342,
+    "Symbol": "Ŗ",
+    "Entity Name": "&Rcedil;",
+    "Code": "&#342;",
+    "Description": "Latin capital letter r with cedilla"
+  },
+  {
+    "Number": 343,
+    "Symbol": "ŗ",
+    "Entity Name": "&rcedil;",
+    "Code": "&#343;",
+    "Description": "Latin small letter r with cedilla"
+  },
+  {
+    "Number": 344,
+    "Symbol": "Ř",
+    "Entity Name": "&Rcaron;",
+    "Code": "&#344;",
+    "Description": "Latin capital letter r with caron"
+  },
+  {
+    "Number": 345,
+    "Symbol": "ř",
+    "Entity Name": "&rcaron;",
+    "Code": "&#345;",
+    "Description": "Latin small letter r with caron"
+  },
+  {
+    "Number": 346,
+    "Symbol": "Ś",
+    "Entity Name": "&Sacute;",
+    "Code": "&#346;",
+    "Description": "Latin capital letter s with acute"
+  },
+  {
+    "Number": 347,
+    "Symbol": "ś",
+    "Entity Name": "&sacute;",
+    "Code": "&#347;",
+    "Description": "Latin small letter s with acute"
+  },
+  {
+    "Number": 348,
+    "Symbol": "Ŝ",
+    "Entity Name": "&Scirc;",
+    "Code": "&#348;",
+    "Description": "Latin capital letter s with circumflex"
+  },
+  {
+    "Number": 349,
+    "Symbol": "ŝ",
+    "Entity Name": "&scirc;",
+    "Code": "&#349;",
+    "Description": "Latin small letter s with circumflex"
+  },
+  {
+    "Number": 350,
+    "Symbol": "Ş",
+    "Entity Name": "&Scedil;",
+    "Code": "&#350;",
+    "Description": "Latin capital letter s with cedilla"
+  },
+  {
+    "Number": 351,
+    "Symbol": "ş",
+    "Entity Name": "&scedil;",
+    "Code": "&#351;",
+    "Description": "Latin small letter s with cedilla"
+  },
+  {
+    "Number": 352,
+    "Symbol": "Š",
+    "Entity Name": "&Scaron;",
+    "Code": "&#352;",
+    "Description": "Uppercase S with caron"
+  },
+  {
+    "Number": 353,
+    "Symbol": "š",
+    "Entity Name": "&scaron;",
+    "Code": "&#353;",
+    "Description": "Lowercase S with caron"
+  },
+  {
+    "Number": 354,
+    "Symbol": "Ţ",
+    "Entity Name": "&Tcedil;",
+    "Code": "&#354;",
+    "Description": "Latin capital letter t with cedilla"
+  },
+  {
+    "Number": 355,
+    "Symbol": "ţ",
+    "Entity Name": "&tcedil;",
+    "Code": "&#355;",
+    "Description": "Latin small letter t with cedilla"
+  },
+  {
+    "Number": 356,
+    "Symbol": "Ť",
+    "Entity Name": "&Tcaron;",
+    "Code": "&#356;",
+    "Description": "Latin capital letter t with caron"
+  },
+  {
+    "Number": 357,
+    "Symbol": "ť",
+    "Entity Name": "&tcaron;",
+    "Code": "&#357;",
+    "Description": "Latin small letter t with caron"
+  },
+  {
+    "Number": 358,
+    "Symbol": "Ŧ",
+    "Entity Name": "&Tstrok;",
+    "Code": "&#358;",
+    "Description": "Latin capital letter t with stroke"
+  },
+  {
+    "Number": 359,
+    "Symbol": "ŧ",
+    "Entity Name": "&tstrok;",
+    "Code": "&#359;",
+    "Description": "Latin small letter t with stroke"
+  },
+  {
+    "Number": 360,
+    "Symbol": "Ũ",
+    "Entity Name": "&Utilde;",
+    "Code": "&#360;",
+    "Description": "Latin capital letter u with tilde"
+  },
+  {
+    "Number": 361,
+    "Symbol": "ũ",
+    "Entity Name": "&utilde;",
+    "Code": "&#361;",
+    "Description": "Latin small letter u with tilde"
+  },
+  {
+    "Number": 362,
+    "Symbol": "Ū",
+    "Entity Name": "&Umacr;",
+    "Code": "&#362;",
+    "Description": "Latin capital letter u with macron"
+  },
+  {
+    "Number": 363,
+    "Symbol": "ū",
+    "Entity Name": "&umacr;",
+    "Code": "&#363;",
+    "Description": "Latin small letter u with macron"
+  },
+  {
+    "Number": 364,
+    "Symbol": "Ŭ",
+    "Entity Name": "&Ubreve;",
+    "Code": "&#364;",
+    "Description": "Latin capital letter u with breve"
+  },
+  {
+    "Number": 365,
+    "Symbol": "ŭ",
+    "Entity Name": "&ubreve;",
+    "Code": "&#365;",
+    "Description": "Latin small letter u with breve"
+  },
+  {
+    "Number": 366,
+    "Symbol": "Ů",
+    "Entity Name": "&Uring;",
+    "Code": "&#366;",
+    "Description": "Latin capital letter u with ring above"
+  },
+  {
+    "Number": 367,
+    "Symbol": "ů",
+    "Entity Name": "&uring;",
+    "Code": "&#367;",
+    "Description": "Latin small letter u with ring above"
+  },
+  {
+    "Number": 368,
+    "Symbol": "Ű",
+    "Entity Name": "&Udblac;",
+    "Code": "&#368;",
+    "Description": "Latin capital letter u with double acute"
+  },
+  {
+    "Number": 369,
+    "Symbol": "ű",
+    "Entity Name": "&udblac;",
+    "Code": "&#369;",
+    "Description": "Latin small letter u with double acute"
+  },
+  {
+    "Number": 370,
+    "Symbol": "Ų",
+    "Entity Name": "&Uogon;",
+    "Code": "&#370;",
+    "Description": "Latin capital letter u with ogonek"
+  },
+  {
+    "Number": 371,
+    "Symbol": "ų",
+    "Entity Name": "&uogon;",
+    "Code": "&#371;",
+    "Description": "Latin small letter u with ogonek"
+  },
+  {
+    "Number": 372,
+    "Symbol": "Ŵ",
+    "Entity Name": "&Wcirc;",
+    "Code": "&#372;",
+    "Description": "Latin capital letter w with circumflex"
+  },
+  {
+    "Number": 373,
+    "Symbol": "ŵ",
+    "Entity Name": "&wcirc;",
+    "Code": "&#373;",
+    "Description": "Latin small letter w with circumflex"
+  },
+  {
+    "Number": 374,
+    "Symbol": "Ŷ",
+    "Entity Name": "&Ycirc;",
+    "Code": "&#374;",
+    "Description": "Latin capital letter y with circumflex"
+  },
+  {
+    "Number": 375,
+    "Symbol": "ŷ",
+    "Entity Name": "&ycirc;",
+    "Code": "&#375;",
+    "Description": "Latin small letter y with circumflex"
+  },
+  {
+    "Number": 376,
+    "Symbol": "Ÿ",
+    "Entity Name": "&Yuml;",
+    "Code": "&#376;",
+    "Description": "Capital Y with diaeres"
+  },
+  {
+    "Number": 402,
+    "Symbol": "ƒ",
+    "Entity Name": "&fnof;",
+    "Code": "&#402;",
+    "Description": "Lowercase with hook"
+  },
+  {
+    "Number": 710,
+    "Symbol": "ˆ",
+    "Entity Name": "&circ;",
+    "Code": "&#710;",
+    "Description": "Circumflex accent"
+  },
+  {
+    "Number": 732,
+    "Symbol": "˜",
+    "Entity Name": "&tilde;",
+    "Code": "&#732;",
+    "Description": "Tilde"
+  },
+  {
+    "Number": 913,
+    "Symbol": "Α",
+    "Entity Name": "&Alpha;",
+    "Code": "&#913;",
+    "Description": "Alpha"
+  },
+  {
+    "Number": 914,
+    "Symbol": "Β",
+    "Entity Name": "&Beta;",
+    "Code": "&#914;",
+    "Description": "Beta"
+  },
+  {
+    "Number": 915,
+    "Symbol": "Γ",
+    "Entity Name": "&Gamma;",
+    "Code": "&#915;",
+    "Description": "Gamma"
+  },
+  {
+    "Number": 916,
+    "Symbol": "Δ",
+    "Entity Name": "&Delta;",
+    "Code": "&#916;",
+    "Description": "Delta"
+  },
+  {
+    "Number": 917,
+    "Symbol": "Ε",
+    "Entity Name": "&Epsilon;",
+    "Code": "&#917;",
+    "Description": "Epsilon"
+  },
+  {
+    "Number": 918,
+    "Symbol": "Ζ",
+    "Entity Name": "&Zeta;",
+    "Code": "&#918;",
+    "Description": "Zeta"
+  },
+  {
+    "Number": 919,
+    "Symbol": "Η",
+    "Entity Name": "&Eta;",
+    "Code": "&#919;",
+    "Description": "Eta"
+  },
+  {
+    "Number": 920,
+    "Symbol": "Θ",
+    "Entity Name": "&Theta;",
+    "Code": "&#920;",
+    "Description": "Theta"
+  },
+  {
+    "Number": 921,
+    "Symbol": "Ι",
+    "Entity Name": "&Iota;",
+    "Code": "&#921;",
+    "Description": "Iota"
+  },
+  {
+    "Number": 922,
+    "Symbol": "Κ",
+    "Entity Name": "&Kappa;",
+    "Code": "&#922;",
+    "Description": "Kappa"
+  },
+  {
+    "Number": 923,
+    "Symbol": "Λ",
+    "Entity Name": "&Lambda;",
+    "Code": "&#923;",
+    "Description": "Lambda"
+  },
+  {
+    "Number": 924,
+    "Symbol": "Μ",
+    "Entity Name": "&Mu;",
+    "Code": "&#924;",
+    "Description": "Mu"
+  },
+  {
+    "Number": 925,
+    "Symbol": "Ν",
+    "Entity Name": "&Nu;",
+    "Code": "&#925;",
+    "Description": "Nu"
+  },
+  {
+    "Number": 926,
+    "Symbol": "Ξ",
+    "Entity Name": "&Xi;",
+    "Code": "&#926;",
+    "Description": "Xi"
+  },
+  {
+    "Number": 927,
+    "Symbol": "Ο",
+    "Entity Name": "&Omicron;",
+    "Code": "&#927;",
+    "Description": "Omicron"
+  },
+  {
+    "Number": 928,
+    "Symbol": "Π",
+    "Entity Name": "&Pi;",
+    "Code": "&#928;",
+    "Description": "Pi"
+  },
+  {
+    "Number": 929,
+    "Symbol": "Ρ",
+    "Entity Name": "&Rho;",
+    "Code": "&#929;",
+    "Description": "Rho"
+  },
+  {
+    "Number": 931,
+    "Symbol": "Σ",
+    "Entity Name": "&Sigma;",
+    "Code": "&#931;",
+    "Description": "Sigma"
+  },
+  {
+    "Number": 932,
+    "Symbol": "Τ",
+    "Entity Name": "&Tau;",
+    "Code": "&#932;",
+    "Description": "Tau"
+  },
+  {
+    "Number": 933,
+    "Symbol": "Υ",
+    "Entity Name": "&Upsilon;",
+    "Code": "&#933;",
+    "Description": "Upsilon"
+  },
+  {
+    "Number": 934,
+    "Symbol": "Φ",
+    "Entity Name": "&Phi;",
+    "Code": "&#934;",
+    "Description": "Phi"
+  },
+  {
+    "Number": 935,
+    "Symbol": "Χ",
+    "Entity Name": "&Chi;",
+    "Code": "&#935;",
+    "Description": "Chi"
+  },
+  {
+    "Number": 936,
+    "Symbol": "Ψ",
+    "Entity Name": "&Psi;",
+    "Code": "&#936;",
+    "Description": "Psi"
+  },
+  {
+    "Number": 937,
+    "Symbol": "Ω",
+    "Entity Name": "&Omega;",
+    "Code": "&#937;",
+    "Description": "Omega"
+  },
+  {
+    "Number": 945,
+    "Symbol": "α",
+    "Entity Name": "&alpha;",
+    "Code": "&#945;",
+    "Description": "alpha"
+  },
+  {
+    "Number": 946,
+    "Symbol": "β",
+    "Entity Name": "&beta;",
+    "Code": "&#946;",
+    "Description": "beta"
+  },
+  {
+    "Number": 947,
+    "Symbol": "γ",
+    "Entity Name": "&gamma;",
+    "Code": "&#947;",
+    "Description": "gamma"
+  },
+  {
+    "Number": 948,
+    "Symbol": "δ",
+    "Entity Name": "&delta;",
+    "Code": "&#948;",
+    "Description": "delta"
+  },
+  {
+    "Number": 949,
+    "Symbol": "ε",
+    "Entity Name": "&epsilon;",
+    "Code": "&#949;",
+    "Description": "epsilon"
+  },
+  {
+    "Number": 950,
+    "Symbol": "ζ",
+    "Entity Name": "&zeta;",
+    "Code": "&#950;",
+    "Description": "zeta"
+  },
+  {
+    "Number": 951,
+    "Symbol": "η",
+    "Entity Name": "&eta;",
+    "Code": "&#951;",
+    "Description": "eta"
+  },
+  {
+    "Number": 952,
+    "Symbol": "θ",
+    "Entity Name": "&theta;",
+    "Code": "&#952;",
+    "Description": "theta"
+  },
+  {
+    "Number": 953,
+    "Symbol": "ι",
+    "Entity Name": "&iota;",
+    "Code": "&#953;",
+    "Description": "iota"
+  },
+  {
+    "Number": 954,
+    "Symbol": "κ",
+    "Entity Name": "&kappa;",
+    "Code": "&#954;",
+    "Description": "kappa"
+  },
+  {
+    "Number": 955,
+    "Symbol": "λ",
+    "Entity Name": "&lambda;",
+    "Code": "&#955;",
+    "Description": "lambda"
+  },
+  {
+    "Number": 956,
+    "Symbol": "μ",
+    "Entity Name": "&mu;",
+    "Code": "&#956;",
+    "Description": "mu"
+  },
+  {
+    "Number": 957,
+    "Symbol": "ν",
+    "Entity Name": "&nu;",
+    "Code": "&#957;",
+    "Description": "nu"
+  },
+  {
+    "Number": 958,
+    "Symbol": "ξ",
+    "Entity Name": "&xi;",
+    "Code": "&#958;",
+    "Description": "xi"
+  },
+  {
+    "Number": 959,
+    "Symbol": "ο",
+    "Entity Name": "&omicron;",
+    "Code": "&#959;",
+    "Description": "omicron"
+  },
+  {
+    "Number": 960,
+    "Symbol": "π",
+    "Entity Name": "&pi;",
+    "Code": "&#960;",
+    "Description": "pi"
+  },
+  {
+    "Number": 961,
+    "Symbol": "ρ",
+    "Entity Name": "&rho;",
+    "Code": "&#961;",
+    "Description": "rho"
+  },
+  {
+    "Number": 962,
+    "Symbol": "ς",
+    "Entity Name": "&sigmaf;",
+    "Code": "&#962;",
+    "Description": "sigmaf"
+  },
+  {
+    "Number": 963,
+    "Symbol": "σ",
+    "Entity Name": "&sigma;",
+    "Code": "&#963;",
+    "Description": "sigma"
+  },
+  {
+    "Number": 964,
+    "Symbol": "τ",
+    "Entity Name": "&tau;",
+    "Code": "&#964;",
+    "Description": "tau"
+  },
+  {
+    "Number": 965,
+    "Symbol": "υ",
+    "Entity Name": "&upsilon;",
+    "Code": "&#965;",
+    "Description": "upsilon"
+  },
+  {
+    "Number": 966,
+    "Symbol": "φ",
+    "Entity Name": "&phi;",
+    "Code": "&#966;",
+    "Description": "phi"
+  },
+  {
+    "Number": 967,
+    "Symbol": "χ",
+    "Entity Name": "&chi;",
+    "Code": "&#967;",
+    "Description": "chi"
+  },
+  {
+    "Number": 968,
+    "Symbol": "ψ",
+    "Entity Name": "&psi;",
+    "Code": "&#968;",
+    "Description": "psi"
+  },
+  {
+    "Number": 969,
+    "Symbol": "ω",
+    "Entity Name": "&omega;",
+    "Code": "&#969;",
+    "Description": "omega"
+  },
+  {
+    "Number": 977,
+    "Symbol": "ϑ",
+    "Entity Name": "&thetasym;",
+    "Code": "&#977;",
+    "Description": "Theta symbol"
+  },
+  {
+    "Number": 978,
+    "Symbol": "ϒ",
+    "Entity Name": "&upsih;",
+    "Code": "&#978;",
+    "Description": "Upsilon symbol"
+  },
+  {
+    "Number": 982,
+    "Symbol": "ϖ",
+    "Entity Name": "&piv;",
+    "Code": "&#982;",
+    "Description": "Pi symbol"
+  },
+  {
+    "Number": 8194,
+    "Symbol": "En space",
+    "Entity Name": "&ensp;",
+    "Code": "&#8194;",
+    "Description": "En space"
+  },
+  {
+    "Number": 8195,
+    "Symbol": "Em space",
+    "Entity Name": "&emsp;",
+    "Code": "&#8195;",
+    "Description": "Em space"
+  },
+  {
+    "Number": 8201,
+    "Symbol": "Thin space",
+    "Entity Name": "&thinsp;",
+    "Code": "&#8201;",
+    "Description": "Thin space"
+  },
+  {
+    "Number": 8204,
+    "Symbol": "Zero width non-joiner",
+    "Entity Name": "&zwnj;",
+    "Code": "&#8204;",
+    "Description": "Zero width non-joiner"
+  },
+  {
+    "Number": 8205,
+    "Symbol": "Zero width joiner",
+    "Entity Name": "&zwj;",
+    "Code": "&#8205;",
+    "Description": "Zero width joiner"
+  },
+  {
+    "Number": 8206,
+    "Symbol": "Left-to-right mark",
+    "Entity Name": "&lrm;",
+    "Code": "&#8206;",
+    "Description": "Left-to-right mark"
+  },
+  {
+    "Number": 8207,
+    "Symbol": "Right-to-left mark",
+    "Entity Name": "&rlm;",
+    "Code": "&#8207;",
+    "Description": "Right-to-left mark"
+  },
+  {
+    "Number": 8211,
+    "Symbol": "–",
+    "Entity Name": "&ndash;",
+    "Code": "&#8211;",
+    "Description": "En dash"
+  },
+  {
+    "Number": 8212,
+    "Symbol": "—",
+    "Entity Name": "&mdash;",
+    "Code": "&#8212;",
+    "Description": "Em dash"
+  },
+  {
+    "Number": 8216,
+    "Symbol": "‘",
+    "Entity Name": "&lsquo;",
+    "Code": "&#8216;",
+    "Description": "Left single quotation mark"
+  },
+  {
+    "Number": 8217,
+    "Symbol": "’",
+    "Entity Name": "&rsquo;",
+    "Code": "&#8217;",
+    "Description": "Right single quotation mark"
+  },
+  {
+    "Number": 8218,
+    "Symbol": "‚",
+    "Entity Name": "&sbquo;",
+    "Code": "&#8218;",
+    "Description": "Single low-9 quotation mark"
+  },
+  {
+    "Number": 8220,
+    "Symbol": "“",
+    "Entity Name": "&ldquo;",
+    "Code": "&#8220;",
+    "Description": "Left double quotation mark"
+  },
+  {
+    "Number": 8221,
+    "Symbol": "”",
+    "Entity Name": "&rdquo;",
+    "Code": "&#8221;",
+    "Description": "Right double quotation mark"
+  },
+  {
+    "Number": 8222,
+    "Symbol": "„",
+    "Entity Name": "&bdquo;",
+    "Code": "&#8222;",
+    "Description": "Double low-9 quotation mark"
+  },
+  {
+    "Number": 8224,
+    "Symbol": "†",
+    "Entity Name": "&dagger;",
+    "Code": "&#8224;",
+    "Description": "Dagger"
+  },
+  {
+    "Number": 8225,
+    "Symbol": "‡",
+    "Entity Name": "&Dagger;",
+    "Code": "&#8225;",
+    "Description": "Double dagger"
+  },
+  {
+    "Number": 8226,
+    "Symbol": "•",
+    "Entity Name": "&bull;",
+    "Code": "&#8226;",
+    "Description": "Bullet"
+  },
+  {
+    "Number": 8230,
+    "Symbol": "…",
+    "Entity Name": "&hellip;",
+    "Code": "&#8230;",
+    "Description": "Horizontal ellipsis"
+  },
+  {
+    "Number": 8240,
+    "Symbol": "‰",
+    "Entity Name": "&permil;",
+    "Code": "&#8240;",
+    "Description": "Per mille"
+  },
+  {
+    "Number": 8242,
+    "Symbol": "′",
+    "Entity Name": "&prime;",
+    "Code": "&#8242;",
+    "Description": "Minutes (Degrees)"
+  },
+  {
+    "Number": 8243,
+    "Symbol": "″",
+    "Entity Name": "&Prime;",
+    "Code": "&#8243;",
+    "Description": "Seconds (Degrees)"
+  },
+  {
+    "Number": 8249,
+    "Symbol": "‹",
+    "Entity Name": "&lsaquo;",
+    "Code": "&#8249;",
+    "Description": "Single left angle quotation"
+  },
+  {
+    "Number": 8250,
+    "Symbol": "›",
+    "Entity Name": "&rsaquo;",
+    "Code": "&#8250;",
+    "Description": "Single right angle quotation"
+  },
+  {
+    "Number": 8254,
+    "Symbol": "‾",
+    "Entity Name": "&oline;",
+    "Code": "&#8254;",
+    "Description": "Overline"
+  },
+  {
+    "Number": 8364,
+    "Symbol": "€",
+    "Entity Name": "&euro;",
+    "Code": "&#8364;",
+    "Description": "Euro"
+  },
+  {
+    "Number": 8482,
+    "Symbol": "™",
+    "Entity Name": "&trade;",
+    "Code": "&#8482;",
+    "Description": "Trademark"
+  },
+  {
+    "Number": 8592,
+    "Symbol": "←",
+    "Entity Name": "&larr;",
+    "Code": "&#8592;",
+    "Description": "Left arrow"
+  },
+  {
+    "Number": 8593,
+    "Symbol": "↑",
+    "Entity Name": "&uarr;",
+    "Code": "&#8593;",
+    "Description": "Up arrow"
+  },
+  {
+    "Number": 8594,
+    "Symbol": "→",
+    "Entity Name": "&rarr;",
+    "Code": "&#8594;",
+    "Description": "Right arrow"
+  },
+  {
+    "Number": 8595,
+    "Symbol": "↓",
+    "Entity Name": "&darr;",
+    "Code": "&#8595;",
+    "Description": "Down arrow"
+  },
+  {
+    "Number": 8596,
+    "Symbol": "↔",
+    "Entity Name": "&harr;",
+    "Code": "&#8596;",
+    "Description": "Left right arrow"
+  },
+  {
+    "Number": 8629,
+    "Symbol": "↵",
+    "Entity Name": "&crarr;",
+    "Code": "&#8629;",
+    "Description": "Carriage return arrow"
+  },
+  {
+    "Number": 8704,
+    "Symbol": "∀",
+    "Entity Name": "&forall;",
+    "Code": "&#8704;",
+    "Description": "For all"
+  },
+  {
+    "Number": 8706,
+    "Symbol": "∂",
+    "Entity Name": "&part;",
+    "Code": "&#8706;",
+    "Description": "Part"
+  },
+  {
+    "Number": 8707,
+    "Symbol": "∃",
+    "Entity Name": "&exist;",
+    "Code": "&#8707;",
+    "Description": "Exist"
+  },
+  {
+    "Number": 8709,
+    "Symbol": "∅",
+    "Entity Name": "&empty;",
+    "Code": "&#8709;",
+    "Description": "Empty"
+  },
+  {
+    "Number": 8711,
+    "Symbol": "∇",
+    "Entity Name": "&nabla;",
+    "Code": "&#8711;",
+    "Description": "Nabla"
+  },
+  {
+    "Number": 8712,
+    "Symbol": "∈",
+    "Entity Name": "&isin;",
+    "Code": "&#8712;",
+    "Description": "Is in"
+  },
+  {
+    "Number": 8713,
+    "Symbol": "∉",
+    "Entity Name": "&notin;",
+    "Code": "&#8713;",
+    "Description": "Not in"
+  },
+  {
+    "Number": 8715,
+    "Symbol": "∋",
+    "Entity Name": "&ni;",
+    "Code": "&#8715;",
+    "Description": "Ni"
+  },
+  {
+    "Number": 8719,
+    "Symbol": "∏",
+    "Entity Name": "&prod;",
+    "Code": "&#8719;",
+    "Description": "Product"
+  },
+  {
+    "Number": 8721,
+    "Symbol": "∑",
+    "Entity Name": "&sum;",
+    "Code": "&#8721;",
+    "Description": "Sum"
+  },
+  {
+    "Number": 8722,
+    "Symbol": "−",
+    "Entity Name": "&minus;",
+    "Code": "&#8722;",
+    "Description": "Minus"
+  },
+  {
+    "Number": 8727,
+    "Symbol": "∗",
+    "Entity Name": "&lowast;",
+    "Code": "&#8727;",
+    "Description": "Asterisk (Lowast)"
+  },
+  {
+    "Number": 8730,
+    "Symbol": "√",
+    "Entity Name": "&radic;",
+    "Code": "&#8730;",
+    "Description": "Square root"
+  },
+  {
+    "Number": 8733,
+    "Symbol": "∝",
+    "Entity Name": "&prop;",
+    "Code": "&#8733;",
+    "Description": "Proportional to"
+  },
+  {
+    "Number": 8734,
+    "Symbol": "∞",
+    "Entity Name": "&infin;",
+    "Code": "&#8734;",
+    "Description": "Infinity"
+  },
+  {
+    "Number": 8736,
+    "Symbol": "∠",
+    "Entity Name": "&ang;",
+    "Code": "&#8736;",
+    "Description": "Angle"
+  },
+  {
+    "Number": 8743,
+    "Symbol": "∧",
+    "Entity Name": "&and;",
+    "Code": "&#8743;",
+    "Description": "And"
+  },
+  {
+    "Number": 8744,
+    "Symbol": "∨",
+    "Entity Name": "&or;",
+    "Code": "&#8744;",
+    "Description": "Or"
+  },
+  {
+    "Number": 8745,
+    "Symbol": "∩",
+    "Entity Name": "&cap;",
+    "Code": "&#8745;",
+    "Description": "Cap"
+  },
+  {
+    "Number": 8746,
+    "Symbol": "∪",
+    "Entity Name": "&cup;",
+    "Code": "&#8746;",
+    "Description": "Cup"
+  },
+  {
+    "Number": 8747,
+    "Symbol": "∫",
+    "Entity Name": "&int;",
+    "Code": "&#8747;",
+    "Description": "Integral"
+  },
+  {
+    "Number": 8756,
+    "Symbol": "∴",
+    "Entity Name": "&there4;",
+    "Code": "&#8756;",
+    "Description": "Therefore"
+  },
+  {
+    "Number": 8764,
+    "Symbol": "∼",
+    "Entity Name": "&sim;",
+    "Code": "&#8764;",
+    "Description": "Similar to"
+  },
+  {
+    "Number": 8773,
+    "Symbol": "≅",
+    "Entity Name": "&cong;",
+    "Code": "&#8773;",
+    "Description": "Congurent to"
+  },
+  {
+    "Number": 8776,
+    "Symbol": "≈",
+    "Entity Name": "&asymp;",
+    "Code": "&#8776;",
+    "Description": "Almost equal"
+  },
+  {
+    "Number": 8800,
+    "Symbol": "≠",
+    "Entity Name": "&ne;",
+    "Code": "&#8800;",
+    "Description": "Not equal"
+  },
+  {
+    "Number": 8801,
+    "Symbol": "≡",
+    "Entity Name": "&equiv;",
+    "Code": "&#8801;",
+    "Description": "Equivalent"
+  },
+  {
+    "Number": 8804,
+    "Symbol": "≤",
+    "Entity Name": "&le;",
+    "Code": "&#8804;",
+    "Description": "Less or equal"
+  },
+  {
+    "Number": 8805,
+    "Symbol": "≥",
+    "Entity Name": "&ge;",
+    "Code": "&#8805;",
+    "Description": "Greater or equal"
+  },
+  {
+    "Number": 8834,
+    "Symbol": "⊂",
+    "Entity Name": "&sub;",
+    "Code": "&#8834;",
+    "Description": "Subset of"
+  },
+  {
+    "Number": 8835,
+    "Symbol": "⊃",
+    "Entity Name": "&sup;",
+    "Code": "&#8835;",
+    "Description": "Superset of"
+  },
+  {
+    "Number": 8836,
+    "Symbol": "⊄",
+    "Entity Name": "&nsub;",
+    "Code": "&#8836;",
+    "Description": "Not subset of"
+  },
+  {
+    "Number": 8838,
+    "Symbol": "⊆",
+    "Entity Name": "&sube;",
+    "Code": "&#8838;",
+    "Description": "Subset or equal"
+  },
+  {
+    "Number": 8839,
+    "Symbol": "⊇",
+    "Entity Name": "&supe;",
+    "Code": "&#8839;",
+    "Description": "Superset or equal"
+  },
+  {
+    "Number": 8853,
+    "Symbol": "⊕",
+    "Entity Name": "&oplus;",
+    "Code": "&#8853;",
+    "Description": "Circled plus"
+  },
+  {
+    "Number": 8855,
+    "Symbol": "⊗",
+    "Entity Name": "&otimes;",
+    "Code": "&#8855;",
+    "Description": "Circled times"
+  },
+  {
+    "Number": 8869,
+    "Symbol": "⊥",
+    "Entity Name": "&perp;",
+    "Code": "&#8869;",
+    "Description": "Perpendicular"
+  },
+  {
+    "Number": 8901,
+    "Symbol": "⋅",
+    "Entity Name": "&sdot;",
+    "Code": "&#8901;",
+    "Description": "Dot operator"
+  },
+  {
+    "Number": 8968,
+    "Symbol": "⌈",
+    "Entity Name": "&lceil;",
+    "Code": "&#8968;",
+    "Description": "Left ceiling"
+  },
+  {
+    "Number": 8969,
+    "Symbol": "⌉",
+    "Entity Name": "&rceil;",
+    "Code": "&#8969;",
+    "Description": "Right ceiling"
+  },
+  {
+    "Number": 8970,
+    "Symbol": "⌊",
+    "Entity Name": "&lfloor;",
+    "Code": "&#8970;",
+    "Description": "Left floor"
+  },
+  {
+    "Number": 8971,
+    "Symbol": "⌋",
+    "Entity Name": "&rfloor;",
+    "Code": "&#8971;",
+    "Description": "Right floor"
+  },
+  {
+    "Number": 9674,
+    "Symbol": "◊",
+    "Entity Name": "&loz;",
+    "Code": "&#9674;",
+    "Description": "Lozenge"
+  },
+  {
+    "Number": 9824,
+    "Symbol": "♠",
+    "Entity Name": "&spades;",
+    "Code": "&#9824;",
+    "Description": "Spade"
+  },
+  {
+    "Number": 9827,
+    "Symbol": "♣",
+    "Entity Name": "&clubs;",
+    "Code": "&#9827;",
+    "Description": "Club"
+  },
+  {
+    "Number": 9829,
+    "Symbol": "♥",
+    "Entity Name": "&hearts;",
+    "Code": "&#9829;",
+    "Description": "Heart"
+  },
+  {
+    "Number": 9830,
+    "Symbol": "♦",
+    "Entity Name": "&diams;",
+    "Code": "&#9830;",
+    "Description": "Diamond"
+  }
+]
