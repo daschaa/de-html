@@ -1,21 +1,21 @@
 [
   {
     "Number": 9,
-    "Symbol": "Tab",
+    "Symbol": "\t",
     "Entity Name": "&Tab;",
     "Code": "&#9;",
     "Description": "Tab"
   },
   {
     "Number": 10,
-    "Symbol": "New Line",
+    "Symbol": "\n",
     "Entity Name": "&NewLine;",
     "Code": "&#10;",
     "Description": "New Line"
   },
   {
     "Number": 32,
-    "Symbol": "Space",
+    "Symbol": " ",
     "Entity Name": "&nbsp;",
     "Code": "&#32;",
     "Description": "Space"
