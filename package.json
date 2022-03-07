@@ -1,6 +1,6 @@
 {
   "name": "de-html",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "📦 Decodes strings with HTML encoded characters",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
